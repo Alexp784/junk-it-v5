@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   plugins: [react()],
-  base: "/junk-it-blast/",
+  base: "/junk-it-v5/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
